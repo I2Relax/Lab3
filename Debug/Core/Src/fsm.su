@@ -1,0 +1,2 @@
+fsm.c:15:6:normal_fsm_run	8	static
+fsm.c:122:6:modify_fsm_run	8	static

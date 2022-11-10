@@ -1,0 +1,5 @@
+display_LED.c:15:6:display7SEG	16	static
+display_LED.c:108:6:clear7SEG	8	static
+display_LED.c:118:6:updateledbuffer	16	static
+display_LED.c:124:6:display_led	24	static
+display_LED.c:180:6:clear_led	8	static
